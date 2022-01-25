@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    top:20%;
+    background: linear-gradient(to right,lightblue,pink);
+}
+h1{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 55px;
+    text-align: center;
+    height:100px;
+}
+    
